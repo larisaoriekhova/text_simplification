@@ -16,5 +16,4 @@ To run metrics:
  - kenlm (https://github.com/kpu/kenlm) and some language model in .arpa format
 
 ## Run ##
-At the moment baseline of the project is ready.
-You can run notebooks/baseline.ipynb to test it.
+Run rule-based-simplification.ipynb to test it.
